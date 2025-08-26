@@ -1,0 +1,2 @@
+la.reverse()
+# print(la)
